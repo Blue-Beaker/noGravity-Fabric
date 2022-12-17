@@ -1,9 +1,22 @@
-# Fabric Example Mod
+# NoGravity Mod [FABRIC]  
+### A Minecraft mod removes gravity from players, entities, and falling blocks  
 
-## Setup
+Features:
+- Remove gravity from most entities including player  
+- Blocks "Gravity" blocks from falling  
+- Remove gravity from particles (cosmetic feature)  
+- Supports both Forge and Fabric
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+If this mod is used on server, it must be on BOTH-side.  
+But Fabric version on server-side also works with Forge version on client-side, but not backwards.  
 
-## License
+# 零重力模组[FABRIC]
+### 一个去除玩家、实体、下落方块重力的Minecraft Mod
+功能：
+- 去除包括玩家的大多数实体的重力
+- 阻止"重力"方块下落
+- 移除粒子重力(装饰效果)
+- 支持Forge与Fabric
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+如在服务器使用本模组，两端都需要安装。
+服务器上安装Fabric版时客户端也可以使用Forge版，但反之不行。

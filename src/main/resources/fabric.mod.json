@@ -1,29 +1,29 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "nogravity",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "NoGravity Mod",
+  "description": "A mod that removes gravity for players, entities and falling blocks. ",
   "authors": [
-    "Me!"
+    "Blue_Beaker"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "",
+    "sources": ""
   },
 
-  "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "license": "GNU LGPLv2.1",
+  "icon": "assets/nogravity/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "io.bluebeaker.nogravity.NoGravityMod"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "nogravity.mixins.json"
   ],
 
   "depends": {

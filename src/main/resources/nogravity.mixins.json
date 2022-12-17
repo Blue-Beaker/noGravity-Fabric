@@ -1,12 +1,15 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "net.fabricmc.example.mixin",
+  "package": "io.bluebeaker.nogravity.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
   ],
   "client": [
-    "ExampleMixin"
+    "MixinFallingBlock",
+    "MixinParticle",
+    "MixinServerWorld",
+    "MixinPlayerEntity"
   ],
   "injectors": {
     "defaultRequire": 1
