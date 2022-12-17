@@ -1,4 +1,5 @@
-# NoGravity Mod [FABRIC]  
+# NoGravity Mod [FABRIC]
+## [FORGE Version](https://github.com/Blue-Beaker/noGravity-mod)
 ### A Minecraft mod removes gravity from players, entities, and falling blocks  
 
 Features:
@@ -10,7 +11,8 @@ Features:
 If this mod is used on server, it must be on BOTH-side.  
 But Fabric version on server-side also works with Forge version on client-side, but not backwards.  
 
-# 零重力模组[FABRIC]
+# 零重力模组 [FABRIC]
+## [FORGE版](https://github.com/Blue-Beaker/noGravity-mod)
 ### 一个去除玩家、实体、下落方块重力的Minecraft Mod
 功能：
 - 去除包括玩家的大多数实体的重力
