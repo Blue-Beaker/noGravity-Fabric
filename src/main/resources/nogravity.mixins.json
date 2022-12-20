@@ -9,6 +9,7 @@
     "MixinFallingBlock",
     "MixinParticle",
     "MixinServerWorld",
+    "MixinLivingEntity",
     "MixinPlayerEntity"
   ],
   "injectors": {
