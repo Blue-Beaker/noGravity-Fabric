@@ -4,13 +4,13 @@
   "package": "io.bluebeaker.nogravity.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
-  ],
-  "client": [
     "MixinFallingBlock",
-    "MixinParticle",
     "MixinServerWorld",
     "MixinLivingEntity",
     "MixinPlayerEntity"
+  ],
+  "client": [
+    "MixinParticle"
   ],
   "injectors": {
     "defaultRequire": 1
